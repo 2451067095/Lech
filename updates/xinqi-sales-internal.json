@@ -2,12 +2,12 @@
   "schema": 1,
   "product_id": "sunka-new-company-sales-internal",
   "channel": "xinqi-stable",
-  "version": "0.1.3-internal.1",
-  "build": 10004,
+  "version": "0.1.4-internal.1",
+  "build": 10005,
   "release_enabled": false,
   "download_url": "",
   "sha256": "",
   "size": 0,
-  "release_notes": "避免搜索完成后空白：保留有公开来源但尚未精确匹配企查查的候选，并明确标注待核验。",
-  "published_at": "2026-08-31T19:00:00+08:00"
+  "release_notes": "增强 DeepSeek 非标准 JSON、截断 JSON 和内容数组兼容；搜索结果格式异常时自动二次整理。",
+  "published_at": "2026-08-31T20:30:00+08:00"
 }
