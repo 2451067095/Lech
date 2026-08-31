@@ -2,12 +2,12 @@
   "schema": 1,
   "product_id": "sunka-new-company-sales-internal",
   "channel": "xinqi-stable",
-  "version": "0.1.5-internal.1",
-  "build": 10006,
+  "version": "0.1.6-internal.1",
+  "build": 10007,
   "release_enabled": false,
   "download_url": "",
   "sha256": "",
   "size": 0,
-  "release_notes": "修复窄行业搜索经常为空：首轮精确搜索不足时自动执行扩展发现，合并候选并去重。",
-  "published_at": "2026-08-31T22:30:00+08:00"
+  "release_notes": "新增有电话、个体店和最低注册资金筛选；支持复制、CSV 导出和脱敏诊断日志。",
+  "published_at": "2026-09-01T00:30:00+08:00"
 }
