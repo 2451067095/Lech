@@ -2,12 +2,12 @@
   "schema": 1,
   "product_id": "sunka-new-company-sales-internal",
   "channel": "xinqi-stable",
-  "version": "0.1.0-internal.1",
-  "build": 10001,
+  "version": "0.1.1-internal.1",
+  "build": 10002,
   "release_enabled": false,
   "download_url": "",
   "sha256": "",
   "size": 0,
-  "release_notes": "新企电销顺嘉内部版独立更新通道已启用；当前已是最新版本。",
-  "published_at": "2026-08-31T01:30:00+08:00"
+  "release_notes": "修复内部凭据、企查查长响应解析和国内网络更新通道。",
+  "published_at": "2026-08-31T02:00:00+08:00"
 }
